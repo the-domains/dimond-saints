@@ -1,7 +1,7 @@
 name: Dimond Saints
 favicon: null
-layout_spectrum: 0.8324783118441701
-typography_spectrum: 0.5373557540588081
+layout_spectrum: 1
+typography_spectrum: 0.55379
 cta:
   domain: null
   bucket: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  brandStrength: 0.712912700837478
+    - '#020001'
+    - '#790004'
+    - '#f3f8fc'
+    - '#70636c'
+    - '#adc5dd'
+  brandStrength: 1
   lightness: 0.8409184305928648
   saturation: 0.837063676211983
   rhythmicContrast: 0.2679352043196559
